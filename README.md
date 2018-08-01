@@ -1,2 +1,2 @@
 # testHello
-gtest hello is a project to test githu.
+test hello is a project to test githu.
